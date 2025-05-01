@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "park_console", "park_console\park_console.csproj", "{6BFED747-BE2B-48A0-B526-836019DCBE85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFED747-BE2B-48A0-B526-836019DCBE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFED747-BE2B-48A0-B526-836019DCBE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFED747-BE2B-48A0-B526-836019DCBE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFED747-BE2B-48A0-B526-836019DCBE85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {686487EC-6CAD-45F9-87FA-F484E7C52B42}
+	EndGlobalSection
+EndGlobal

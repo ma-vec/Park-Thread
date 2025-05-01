@@ -1,0 +1,14 @@
+C:\Users\dadav\source\repos\park_console\park_console\bin\Debug\net8.0\park_console.exe
+C:\Users\dadav\source\repos\park_console\park_console\bin\Debug\net8.0\park_console.deps.json
+C:\Users\dadav\source\repos\park_console\park_console\bin\Debug\net8.0\park_console.runtimeconfig.json
+C:\Users\dadav\source\repos\park_console\park_console\bin\Debug\net8.0\park_console.dll
+C:\Users\dadav\source\repos\park_console\park_console\bin\Debug\net8.0\park_console.pdb
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\park_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\park_console.AssemblyInfoInputs.cache
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\park_console.AssemblyInfo.cs
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\park_console.csproj.CoreCompileInputs.cache
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\park_console.dll
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\refint\park_console.dll
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\park_console.pdb
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\park_console.genruntimeconfig.cache
+C:\Users\dadav\source\repos\park_console\park_console\obj\Debug\net8.0\ref\park_console.dll
